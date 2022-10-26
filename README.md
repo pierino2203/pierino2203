@@ -1,4 +1,13 @@
-Hola 👋👋 mi nombre  es Pierino, soy Full Stack Developer, apasionado por la tecnología siempre buscando aprender más y estar al día con todo. Estudie ingeniería en Computación en la universidad por 3 años, no llegue a terminar la carrera pero aprendí mucho y sobre todo la lógica para resolver los problemas que se me presentan, actualmente estoy retomando la carrera. Soy muy curioso en todo sentido y muy activo. 
+Hola 👋👋 mi nombre  es Pierino,  
+👋🏻 Soy Desarrollador full stack, graduado del bootcamp intensivo de Soy Henry.
+💻 Estoy en búsqueda de trabajo que me ayude a seguir aprendiendo en este mundo que es muy amplio, estoy abierto a aprender nuevas tecnologías y reforzar las que ya se.
+📝Estoy cursando el 3 año de Ingeniería en Sistemas de la información. 
+🚀Mis habilidades: JavaScript | TypeScript | React | Redux | Node JS | Express | MySQL | Mongoose | MongoDb | PostgreSQL | Sequelize | Git | Figma | Slack | HTML | CSS
+💻Mis proyectos:
 
-Me siento muy cómodo buscando soluciones y buscando desafíos, me gusta mejorar día a día aprendiendo nuevas tecnologías y mejorando las que ya sé cómo React, NodeJS, express, CSS,Sequelize, PostgresSQL, Mongodb entre otras. Soy muy lógico para los problemas me gusta mucho el back-end y además mis experiencias laborales ajenas a la tecnología me han dado un buen manejo del habla y el trato con las personas, trabajar en equipo se me da muy bien ☺️
-Si me necesitas para tu equipo esto
+🚀Mis proyectos más recientes:
+E-Commerce de comidas "Henry's Resto Project" ---> http://restohenry.vercel.app/
+E-Commerce de videojuegos "Games Store" ---> https://henry-project.vercel.app/
+🤝Contactame:
+📧 Pierinoe@gmail.com
+🌐 https://github.com/pierino2203
