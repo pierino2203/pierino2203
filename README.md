@@ -14,6 +14,8 @@ E-Commerce de comidas "Henry's Resto Project" ---> [http://restohenry.vercel.app
 
 E-Commerce de videojuegos "Games Store" ---> [https://henry-project.vercel.app/](https://henry-project.vercel.app/)
 
+Pagina de recetas ----> https://pi-food-dploy.vercel.app/home
+
 🤝Contactame:
 
 📧 Pierinoe@gmail.com
