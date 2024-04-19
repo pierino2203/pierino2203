@@ -2,7 +2,7 @@ Hola 👋👋 mi nombre  es Pierino,soy Desarrollador full stack, graduado del b
 
 💻 Estoy en búsqueda de un trabajo que me ayude a seguir aprendiendo en este mundo que es muy amplio, estoy abierto a aprender nuevas tecnologías y reforzar las que ya se.
 
-📝Estoy cursando el 3 año de Ingeniería en Sistemas de la información. 
+📝Estoy cursando el 4 año de Ingeniería en Sistemas de la información. 
 
 🚀Mis habilidades: 
 
